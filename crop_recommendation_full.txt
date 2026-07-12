@@ -1,0 +1,48 @@
+CROP RECOMMENDATION DATASET - SUMMARY BY CROP (converted from CSV for vectorization)
+Each entry below shows the typical soil nutrient (N-P-K), temperature, humidity, pH, and rainfall range observed for successful cultivation of each crop, based on 100 real samples per crop.
+Source: Standard Crop Recommendation Dataset (agricultural soil/climate reference data), covering 22 crops.
+Use this to answer questions like "What crop suits soil with pH 6 and high rainfall?" by matching the ranges below.
+
+Crop: Apple. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 120-145. Suitable Potassium (K) range: 195-205. Suitable temperature range: 21.0-24.0 degrees Celsius. Suitable humidity range: 90.0-94.9 percent. Suitable soil pH range: 5.5-6.5. Suitable rainfall range: 100.1-125.0 mm.
+
+Crop: Banana. Suitable Nitrogen (N) range: 80-120. Suitable Phosphorus (P) range: 70-95. Suitable Potassium (K) range: 45-55. Suitable temperature range: 25.0-29.9 degrees Celsius. Suitable humidity range: 75.0-85.0 percent. Suitable soil pH range: 5.5-6.5. Suitable rainfall range: 90.1-119.8 mm.
+
+Crop: Blackgram. Suitable Nitrogen (N) range: 20-60. Suitable Phosphorus (P) range: 55-80. Suitable Potassium (K) range: 15-25. Suitable temperature range: 25.1-35.0 degrees Celsius. Suitable humidity range: 60.1-70.0 percent. Suitable soil pH range: 6.5-7.8. Suitable rainfall range: 60.4-74.9 mm.
+
+Crop: Chickpea. Suitable Nitrogen (N) range: 20-60. Suitable Phosphorus (P) range: 55-80. Suitable Potassium (K) range: 75-85. Suitable temperature range: 17.0-21.0 degrees Celsius. Suitable humidity range: 14.3-20.0 percent. Suitable soil pH range: 6.0-8.9. Suitable rainfall range: 65.1-94.8 mm.
+
+Crop: Coconut. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 5-30. Suitable Potassium (K) range: 25-35. Suitable temperature range: 25.0-29.9 degrees Celsius. Suitable humidity range: 90.0-100.0 percent. Suitable soil pH range: 5.5-6.5. Suitable rainfall range: 131.1-225.6 mm.
+
+Crop: Coffee. Suitable Nitrogen (N) range: 80-120. Suitable Phosphorus (P) range: 15-40. Suitable Potassium (K) range: 25-35. Suitable temperature range: 23.1-27.9 degrees Celsius. Suitable humidity range: 50.0-70.0 percent. Suitable soil pH range: 6.0-7.5. Suitable rainfall range: 115.2-199.5 mm.
+
+Crop: Cotton. Suitable Nitrogen (N) range: 100-140. Suitable Phosphorus (P) range: 35-60. Suitable Potassium (K) range: 15-25. Suitable temperature range: 22.0-26.0 degrees Celsius. Suitable humidity range: 75.0-84.9 percent. Suitable soil pH range: 5.8-8.0. Suitable rainfall range: 60.6-99.9 mm.
+
+Crop: Grapes. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 120-145. Suitable Potassium (K) range: 195-205. Suitable temperature range: 8.8-42.0 degrees Celsius. Suitable humidity range: 80.0-84.0 percent. Suitable soil pH range: 5.5-6.5. Suitable rainfall range: 65.0-74.9 mm.
+
+Crop: Jute. Suitable Nitrogen (N) range: 60-100. Suitable Phosphorus (P) range: 35-60. Suitable Potassium (K) range: 35-45. Suitable temperature range: 23.1-27.0 degrees Celsius. Suitable humidity range: 70.9-89.9 percent. Suitable soil pH range: 6.0-7.5. Suitable rainfall range: 150.2-199.8 mm.
+
+Crop: Kidneybeans. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 55-80. Suitable Potassium (K) range: 15-25. Suitable temperature range: 15.3-24.9 degrees Celsius. Suitable humidity range: 18.1-25.0 percent. Suitable soil pH range: 5.5-6.0. Suitable rainfall range: 60.3-149.7 mm.
+
+Crop: Lentil. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 55-80. Suitable Potassium (K) range: 15-25. Suitable temperature range: 18.1-29.9 degrees Celsius. Suitable humidity range: 60.1-69.9 percent. Suitable soil pH range: 5.9-7.8. Suitable rainfall range: 35.0-54.9 mm.
+
+Crop: Maize. Suitable Nitrogen (N) range: 60-100. Suitable Phosphorus (P) range: 35-60. Suitable Potassium (K) range: 15-25. Suitable temperature range: 18.0-26.6 degrees Celsius. Suitable humidity range: 55.3-74.8 percent. Suitable soil pH range: 5.5-7.0. Suitable rainfall range: 60.6-109.8 mm.
+
+Crop: Mango. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 15-40. Suitable Potassium (K) range: 25-35. Suitable temperature range: 27.0-36.0 degrees Celsius. Suitable humidity range: 45.0-55.0 percent. Suitable soil pH range: 4.5-7.0. Suitable rainfall range: 89.3-100.8 mm.
+
+Crop: Mothbeans. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 35-60. Suitable Potassium (K) range: 15-25. Suitable temperature range: 24.0-32.0 degrees Celsius. Suitable humidity range: 40.0-65.0 percent. Suitable soil pH range: 3.5-9.9. Suitable rainfall range: 30.9-74.4 mm.
+
+Crop: Mungbean. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 35-60. Suitable Potassium (K) range: 15-25. Suitable temperature range: 27.0-29.9 degrees Celsius. Suitable humidity range: 80.0-90.0 percent. Suitable soil pH range: 6.2-7.2. Suitable rainfall range: 36.1-59.9 mm.
+
+Crop: Muskmelon. Suitable Nitrogen (N) range: 80-120. Suitable Phosphorus (P) range: 5-30. Suitable Potassium (K) range: 45-55. Suitable temperature range: 27.0-29.9 degrees Celsius. Suitable humidity range: 90.0-95.0 percent. Suitable soil pH range: 6.0-6.8. Suitable rainfall range: 20.2-29.9 mm.
+
+Crop: Orange. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 5-30. Suitable Potassium (K) range: 5-15. Suitable temperature range: 10.0-34.9 degrees Celsius. Suitable humidity range: 90.0-95.0 percent. Suitable soil pH range: 6.0-8.0. Suitable rainfall range: 100.2-119.7 mm.
+
+Crop: Papaya. Suitable Nitrogen (N) range: 31-70. Suitable Phosphorus (P) range: 46-70. Suitable Potassium (K) range: 45-55. Suitable temperature range: 23.0-43.7 degrees Celsius. Suitable humidity range: 90.0-94.9 percent. Suitable soil pH range: 6.5-7.0. Suitable rainfall range: 40.4-248.9 mm.
+
+Crop: Pigeonpeas. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 55-80. Suitable Potassium (K) range: 15-25. Suitable temperature range: 18.3-37.0 degrees Celsius. Suitable humidity range: 30.4-69.7 percent. Suitable soil pH range: 4.5-7.5. Suitable rainfall range: 90.0-198.8 mm.
+
+Crop: Pomegranate. Suitable Nitrogen (N) range: 0-40. Suitable Phosphorus (P) range: 5-30. Suitable Potassium (K) range: 35-45. Suitable temperature range: 18.1-25.0 degrees Celsius. Suitable humidity range: 85.1-95.0 percent. Suitable soil pH range: 5.6-7.2. Suitable rainfall range: 102.5-112.5 mm.
+
+Crop: Rice. Suitable Nitrogen (N) range: 60-99. Suitable Phosphorus (P) range: 35-60. Suitable Potassium (K) range: 35-45. Suitable temperature range: 20.1-26.9 degrees Celsius. Suitable humidity range: 80.1-85.0 percent. Suitable soil pH range: 5.0-7.9. Suitable rainfall range: 182.6-298.6 mm.
+
+Crop: Watermelon. Suitable Nitrogen (N) range: 80-120. Suitable Phosphorus (P) range: 5-30. Suitable Potassium (K) range: 45-55. Suitable temperature range: 24.0-27.0 degrees Celsius. Suitable humidity range: 80.0-90.0 percent. Suitable soil pH range: 6.0-7.0. Suitable rainfall range: 40.1-59.8 mm.

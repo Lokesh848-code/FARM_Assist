@@ -1,0 +1,50 @@
+CROP SEASON CALENDAR (Kharif / Rabi / Zaid classification for Indian agriculture)
+This reference maps each crop to its typical Indian cropping season(s), sowing and harvesting timeline.
+Kharif = monsoon season crops (sown June-July, harvested Oct-Nov).
+Rabi = winter season crops (sown Oct-Nov, harvested Feb-March).
+Zaid = short summer season crops grown between Rabi and Kharif (March-June), usually with irrigation.
+Perennial = tree/vine crops that are planted once and produce over multiple years, not tied to a single season.
+
+Crop: Rice. Growing season: Kharif (monsoon season, sown June-July, harvested Oct-Nov). Some regions also grow a Rabi/summer rice crop with irrigation.
+
+Crop: Maize. Growing season: Grown in all three seasons - Kharif (June-July), Rabi (Oct-Nov), and Zaid/summer (Feb-March) with irrigation.
+
+Crop: Chickpea. Growing season: Rabi (winter season, sown Oct-Nov, harvested Feb-March).
+
+Crop: Kidneybeans. Growing season: Kharif (monsoon, sown June-July) in most regions; also grown as a Rabi crop in some hill areas.
+
+Crop: Pigeonpeas. Growing season: Kharif (sown June-July, harvested Dec-Jan; a long-duration crop).
+
+Crop: Mothbeans. Growing season: Kharif (sown June-July, harvested Sept-Oct), suited to arid/drought conditions.
+
+Crop: Mungbean. Growing season: Grown in Kharif (June-July) and also as a short-duration Zaid/summer crop (March-April).
+
+Crop: Blackgram. Growing season: Grown in Kharif (June-July) and Rabi (Oct-Nov) depending on region.
+
+Crop: Lentil. Growing season: Rabi (winter season, sown Oct-Nov, harvested Feb-March).
+
+Crop: Pomegranate. Growing season: Perennial fruit crop; flowering can be managed year-round, with major harvest during winter and monsoon-timed bahar (flowering cycles).
+
+Crop: Banana. Growing season: Perennial crop, planted year-round in most regions; takes about 12-15 months from planting to harvest.
+
+Crop: Mango. Growing season: Perennial tree crop; flowering occurs Dec-Feb, harvest during summer (April-June).
+
+Crop: Grapes. Growing season: Perennial vine crop; pruned and harvested typically Feb-April in most Indian growing regions (e.g. Nashik).
+
+Crop: Watermelon. Growing season: Zaid/summer season (sown Jan-Feb, harvested March-May); needs warm temperatures.
+
+Crop: Muskmelon. Growing season: Zaid/summer season (sown Jan-Feb, harvested March-May), similar to watermelon.
+
+Crop: Apple. Growing season: Perennial temperate fruit crop; flowering in spring (March-April), harvest in autumn (Aug-Oct); needs cold climate (hill regions like Himachal Pradesh, Kashmir).
+
+Crop: Orange. Growing season: Perennial citrus crop; harvest season typically Nov-Feb, though this varies by region.
+
+Crop: Papaya. Growing season: Grown year-round in tropical/subtropical regions; continuous fruiting after 8-10 months from planting.
+
+Crop: Coconut. Growing season: Perennial crop; produces year-round with no distinct season once mature (takes 4-6 years to first bear fruit).
+
+Crop: Cotton. Growing season: Kharif (sown May-June/monsoon onset, harvested Oct-Jan).
+
+Crop: Jute. Growing season: Kharif (sown March-April, harvested July-August), requires warm humid conditions.
+
+Crop: Coffee. Growing season: Perennial crop; flowering after summer showers (Feb-March), harvest during winter (Nov-Jan) depending on Arabica/Robusta variety.

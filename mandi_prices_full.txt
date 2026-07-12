@@ -1,0 +1,58 @@
+MANDI PRICE DATASET - ALL CROPS (sample reference values, mid-2026)
+Source: Compiled from Agmarknet (agmarknet.gov.in) and data.gov.in mandi price patterns.
+IMPORTANT: These are sample/illustrative prices for demo purposes. Real mandi prices change daily and vary by market, season, arrivals, and quality grade.
+
+---
+
+Commodity: Rice. Market: Thanjavur, Tamil Nadu. Minimum price: Rs 1800 per quintal, Maximum price: Rs 2400 per quintal, Modal price: Rs 2100 per quintal. Note: Paddy/rice prices are relatively stable compared to vegetables.
+
+Commodity: Maize. Market: Davangere, Karnataka. Minimum price: Rs 1900 per quintal, Maximum price: Rs 2300 per quintal, Modal price: Rs 2100 per quintal. Note: Maize has a Minimum Support Price (MSP) set by the government.
+
+Commodity: Chickpea (Chana). Market: Indore, Madhya Pradesh. Minimum price: Rs 5200 per quintal, Maximum price: Rs 5800 per quintal, Modal price: Rs 5500 per quintal. Note: Chickpea has MSP support; Madhya Pradesh is a major producer.
+
+Commodity: Kidneybeans (Rajma). Market: Shimla, Himachal Pradesh. Minimum price: Rs 9000 per quintal, Maximum price: Rs 11000 per quintal, Modal price: Rs 10000 per quintal. Note: Prices vary significantly by variety and quality grade.
+
+Commodity: Pigeonpeas (Tur). Market: Latur, Maharashtra. Minimum price: Rs 9500 per quintal, Maximum price: Rs 10500 per quintal, Modal price: Rs 10000 per quintal. Note: Tur/Arhar dal prices are sensitive to monsoon performance.
+
+Commodity: Mothbeans. Market: Bikaner, Rajasthan. Minimum price: Rs 5500 per quintal, Maximum price: Rs 6500 per quintal, Modal price: Rs 6000 per quintal. Note: Mothbean is a drought-tolerant crop mainly grown in arid Rajasthan.
+
+Commodity: Mungbean (Moong). Market: Merta, Rajasthan. Minimum price: Rs 7500 per quintal, Maximum price: Rs 8500 per quintal, Modal price: Rs 8000 per quintal. Note: Moong has MSP support from the government.
+
+Commodity: Blackgram (Urad). Market: Kota, Rajasthan. Minimum price: Rs 6800 per quintal, Maximum price: Rs 7800 per quintal, Modal price: Rs 7300 per quintal. Note: Urad dal demand is typically higher during festival seasons.
+
+Commodity: Lentil (Masoor). Market: Kanpur, Uttar Pradesh. Minimum price: Rs 6000 per quintal, Maximum price: Rs 6800 per quintal, Modal price: Rs 6400 per quintal. Note: Lentil is primarily a rabi (winter) season crop.
+
+Commodity: Pomegranate. Market: Solapur, Maharashtra. Minimum price: Rs 6000 per quintal, Maximum price: Rs 12000 per quintal, Modal price: Rs 9000 per quintal. Note: Prices vary widely by grade (export quality fetches much higher rates).
+
+Commodity: Banana. Market: Jalgaon, Maharashtra. Minimum price: Rs 1500 per quintal, Maximum price: Rs 10000 per quintal, Modal price: Rs 4290 per quintal. Note: Jalgaon is one of India's largest banana trading hubs; prices vary by variety and ripeness grade.
+
+Commodity: Mango. Market: Krishnagiri, Tamil Nadu. Minimum price: Rs 700 per quintal, Maximum price: Rs 30000 per quintal, Modal price: Rs 4900 per quintal. Note: Extremely wide price range depending on variety (e.g. Alphonso vs local varieties) and export demand.
+
+Commodity: Grapes. Market: Nashik, Maharashtra. Minimum price: Rs 6000 per quintal, Maximum price: Rs 19000 per quintal, Modal price: Rs 10038 per quintal. Note: Nashik is India's largest grape-growing and trading hub; export-quality grapes command premium prices.
+
+Commodity: Watermelon. Market: Warangal, Telangana. Minimum price: Rs 800 per quintal, Maximum price: Rs 2000 per quintal, Modal price: Rs 1400 per quintal. Note: Highly seasonal crop with prices dropping sharply during peak summer glut.
+
+Commodity: Muskmelon. Market: Anantapur, Andhra Pradesh. Minimum price: Rs 1000 per quintal, Maximum price: Rs 2500 per quintal, Modal price: Rs 1700 per quintal. Note: Prices peak just before summer season begins.
+
+Commodity: Apple. Market: Shimla, Himachal Pradesh. Minimum price: Rs 4000 per quintal, Maximum price: Rs 9000 per quintal, Modal price: Rs 6000 per quintal. Note: Prices vary significantly by grade (A, B, C grades) and storage quality.
+
+Commodity: Orange. Market: Nagpur, Maharashtra. Minimum price: Rs 2000 per quintal, Maximum price: Rs 5000 per quintal, Modal price: Rs 3200 per quintal. Note: Nagpur is famous for its citrus/orange production, known as "Orange City."
+
+Commodity: Papaya. Market: Salem, Tamil Nadu. Minimum price: Rs 800 per quintal, Maximum price: Rs 2200 per quintal, Modal price: Rs 1400 per quintal. Note: Year-round crop with relatively stable pricing compared to seasonal fruits.
+
+Commodity: Coconut. Market: Kozhikode, Kerala. Minimum price: Rs 2800 per quintal, Maximum price: Rs 4200 per quintal, Modal price: Rs 3500 per quintal. Note: Prices often quoted per 100 nuts in local markets; converted here to approximate per-quintal basis.
+
+Commodity: Cotton. Market: Nagpur, Maharashtra. Minimum price: Rs 6800 per quintal, Maximum price: Rs 7600 per quintal, Modal price: Rs 7200 per quintal. Note: Cotton has MSP support from the government.
+
+Commodity: Jute. Market: Kolkata, West Bengal. Minimum price: Rs 4800 per quintal, Maximum price: Rs 5500 per quintal, Modal price: Rs 5200 per quintal. Note: Jute has MSP support; West Bengal is India's largest jute-producing state.
+
+Commodity: Coffee. Market: Chikmagalur, Karnataka. Minimum price: Rs 32000 per quintal, Maximum price: Rs 42000 per quintal, Modal price: Rs 37000 per quintal. Note: Prices vary significantly between Arabica and Robusta varieties; Karnataka produces the majority of India's coffee.
+
+---
+
+GENERAL NOTES:
+1. These are sample/reference values compiled for demo purposes, based on patterns observed from Agmarknet and data.gov.in mandi price datasets around mid-2026.
+2. Mandi prices change daily and vary by market, season, arrivals, and quality grade. Treat this as illustrative current-price data for demo purposes.
+3. For a real deployment, replace this static file with a live pull from the Agmarknet API/portal (agmarknet.gov.in), refreshed daily.
+4. Crops with government Minimum Support Price (MSP) - such as rice, wheat, cotton, maize, chickpea, moong, and jute - tend to show less price volatility than fruits and vegetables, which are fully market-driven.
+5. Source reference: Agmarknet Portal, Ministry of Agriculture and Farmers Welfare, Government of India, and data.gov.in Open Government Data Platform.

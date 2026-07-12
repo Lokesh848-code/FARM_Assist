@@ -1,0 +1,126 @@
+PEST AND DISEASE CONTROL REFERENCE - ALL CROPS
+Compiled and paraphrased from ICAR institute advisories, Krishi Vigyan Kendra guides, and agricultural extension references.
+
+---
+
+CROP: Rice
+Pest: Yellow Stem Borer
+Symptoms: Larvae tunnel into the stem, causing "dead heart" in young plants and "white ear" in mature plants.
+Control measures: Install light traps to monitor moth activity. Release Trichogramma egg parasitoids as biological control. Apply Chlorantraniliprole-based insecticide if infestation crosses threshold levels.
+
+CROP: Rice
+Pest: Brown Planthopper
+Symptoms: Sap-sucking insect causing yellowing and drying of plants, leading to "hopper burn" patches.
+Control measures: Avoid excess nitrogen fertilizer. Maintain proper field drainage. Use resistant rice varieties. Apply insecticide only if population exceeds economic threshold.
+
+CROP: Maize
+Pest: Fall Armyworm
+Symptoms: Larvae feed on whorl leaves, creating window-pane damage and ragged holes; can also damage cobs.
+Control measures: Intercrop maize with legumes (pigeonpea, cowpea, black gram) to reduce infestation. Install pheromone traps (4/acre) soon after sowing to monitor moth activity. Encourage bird perches to promote natural predation. Apply Bacillus thuringiensis (Bt) or Spinetoram-based insecticide if damage crosses threshold.
+
+CROP: Chickpea
+Pest: Gram Pod Borer (Helicoverpa armigera)
+Symptoms: Larvae bore into developing pods, feeding on seeds and causing significant yield loss.
+Control measures: Monitor with pheromone traps. Encourage natural predators. Apply need-based biopesticide (NPV formulation) or recommended insecticide at early larval stage. Avoid pesticide overuse due to resistance concerns.
+
+CROP: Kidneybeans
+Pest: Aphids and Whitefly
+Symptoms: Sap-sucking pests causing leaf curling, yellowing, and reduced pod formation; can transmit viral diseases.
+Control measures: Use yellow sticky traps for monitoring. Spray neem-based formulations. Encourage natural predators like ladybird beetles.
+
+CROP: Pigeonpeas
+Pest: Gram Pod Borer and Pod Fly
+Symptoms: Pod borer larvae feed inside pods; pod fly maggots damage developing seeds, both reducing yield significantly (pigeonpea faces pest pressure from a very wide range of insect species).
+Control measures: Use pheromone traps for pod borer monitoring. Practice timely sowing to avoid peak pest periods. Apply recommended insecticide at pod formation stage if infestation is severe.
+
+CROP: Mothbeans
+Pest: Aphids
+Symptoms: Sap-sucking damage causing stunted growth and leaf curling; can spread viral disease.
+Control measures: Spray neem oil as a natural repellent. Encourage beneficial insects. Use mild insecticide only if infestation is severe.
+
+CROP: Mungbean
+Pest: Thrips and Whitefly
+Symptoms: Thrips cause flower shedding and reduced pod set; whitefly transmits viral diseases and causes leaf yellowing.
+Control measures: Use yellow/blue sticky traps for monitoring. Spray neem-based formulations at early infestation stage. Avoid water stress, which increases susceptibility.
+
+CROP: Blackgram
+Pest: Bihar Hairy Caterpillar and Whitefly
+Symptoms: Caterpillars feed on foliage causing defoliation; whitefly causes yellowing and virus transmission (blackgram can be affected by a very large number of insect species).
+Control measures: Handpick and destroy egg masses and early-stage caterpillars. Use light traps for adult moth monitoring. Apply recommended insecticide if defoliation is severe.
+
+CROP: Lentil
+Pest: Black Aphid (Aphis craccivora)
+Symptoms: Sap-sucking pest causing leaf curling, stunted growth, and reduced pod formation; also affects pea and chickpea.
+Control measures: Encourage natural predators such as ladybird beetles and lacewings. Spray neem oil for early-stage infestation. Apply insecticide only if aphid population crosses economic threshold.
+
+CROP: Pomegranate
+Pest: Pomegranate Fruit Borer
+Symptoms: Larvae bore into developing fruit, causing internal rot and premature fruit drop; distributed widely across India.
+Control measures: Bag fruits at early development stage to prevent egg-laying. Use pheromone traps for monitoring. Remove and destroy infested fruits. Apply recommended insecticide at fruit-set stage if needed.
+
+CROP: Banana
+Pest: Banana Weevil Borer and Nematodes
+Symptoms: Weevil larvae bore into the pseudostem and rhizome; nematodes cause root and corm rot, often together with fungal infection.
+Control measures: Use healthy, disease-free planting material (suckers). Apply neem cake to soil around the base. Practice field sanitation by removing crop residue after harvest. Rotate with non-host crops to reduce nematode buildup.
+
+CROP: Mango
+Pest: Mango Hopper (Leafhopper)
+Symptoms: Sap-sucking insect causing stunted growth, honeydew secretion, and sooty mold development on leaves and flowers.
+Control measures: Prune dense canopy to improve air circulation and reduce humidity. Spray neem oil or recommended insecticide during flowering stage when hopper activity peaks. Avoid spraying during pollination to protect bees.
+
+CROP: Grapes
+Pest: Mealybugs
+Symptoms: Sap-sucking insects covered in white waxy coating, causing weakened vines, honeydew secretion, and sooty mold.
+Control measures: Use sticky bands around vine trunks to trap crawling mealybugs. Encourage natural predators such as ladybird beetles. Apply recommended insecticide at early infestation stage, focusing on bark crevices where mealybugs hide.
+
+CROP: Watermelon
+Pest: Fruit Fly
+Symptoms: Adult flies lay eggs in developing fruit; larvae feed inside, causing rotting and premature fruit drop.
+Control measures: Use methyl eugenol-based fruit fly traps. Practice field sanitation by collecting and destroying fallen infested fruits. Use bagging for individual fruits where feasible.
+
+CROP: Muskmelon
+Pest: Fruit Fly and Aphids
+Symptoms: Fruit fly larvae damage developing fruit internally; aphids cause leaf curling and can transmit viral disease.
+Control measures: Use fruit fly traps (methyl eugenol-based). Spray neem oil for aphid control. Remove and destroy infested fruits promptly.
+
+CROP: Apple
+Pest: Woolly Apple Aphid
+Symptoms: Cottony white masses on bark, roots, and shoots; causes galls and weakened tree growth.
+Control measures: Prune and destroy heavily infested shoots. Encourage natural predators such as the parasitic wasp Aphelinus mali. Apply recommended insecticide to bark crevices during dormant season if infestation is severe.
+
+CROP: Orange
+Pest: Citrus Leaf Miner and Fruit Borer
+Symptoms: Leaf miner larvae create silvery tunnels in young leaves; fruit borer larvae damage developing fruit.
+Control measures: Prune and destroy heavily mined shoots, especially on young trees. Spray neem oil during new flush growth. Use pheromone traps for fruit borer monitoring.
+
+CROP: Papaya
+Pest: Papaya Mealybug
+Symptoms: Cottony white insect masses on leaves, stems, and fruit, causing stunted growth, leaf deformation, and fruit drop.
+Control measures: Release natural predators/parasitoids such as Acerophagus papayae where available. Prune and destroy heavily infested plant parts. Apply neem-based insecticide for early-stage control.
+
+CROP: Coconut
+Pest: Rhinoceros Beetle
+Symptoms: Adult beetles bore into the crown, damaging unopened fronds and creating characteristic V-shaped cuts on leaves.
+Control measures: Maintain field sanitation by removing decaying organic matter (breeding sites). Apply neem cake or Metarhizium anisopliae (biocontrol fungus) in the crown region. Use pheromone traps for adult beetle monitoring.
+
+CROP: Cotton
+Pest: Pink Bollworm
+Symptoms: Larvae feed inside cotton bolls, damaging fiber quality and reducing yield.
+Control measures: Use Bt cotton varieties for inherent resistance. Install pheromone traps (gossyplure) for monitoring. Destroy infested bolls and crop residue after harvest. Apply Spinosad or Emamectin benzoate if infestation is severe.
+
+CROP: Jute
+Pest: Jute Semilooper and Stem Weevil
+Symptoms: Semilooper caterpillars defoliate leaves; stem weevil larvae bore into stems, weakening fiber quality.
+Control measures: Handpick and destroy caterpillars in early stages. Practice field sanitation and crop rotation. Apply recommended insecticide if infestation is severe, timed to avoid fiber-quality impact.
+
+CROP: Coffee
+Pest: Coffee Berry Borer
+Symptoms: Small beetles bore into coffee berries, damaging beans internally and reducing both yield and quality.
+Control measures: Practice timely and thorough harvesting to remove all berries (including fallen ones) that could harbor the pest. Use alcohol-based traps for monitoring adult beetles. Apply Beauveria bassiana (biocontrol fungus) as an eco-friendly control option.
+
+---
+
+GENERAL GUIDANCE:
+For any pest issue not listed here, farmers are advised to contact their local Krishi Vigyan Kendra (KVK) or call the Kisan Call Centre helpline (1800-180-1551) for region-specific guidance. This information is a general reference and not a substitute for local agricultural extension advice.
+
+SOURCE NOTE: Compiled and paraphrased from ICAR institute advisories (ICAR-IIRR, ICAR-IIWBR, ICAR-NBAIR, ICAR-Indian Institute of Maize Research, ICAR-Indian Institute of Pulses Research), Krishi Vigyan Kendra pest management guides, and general crop protection references. For official, up-to-date recommendations, consult icar.org.in or your State Agricultural University's Package of Practices.
